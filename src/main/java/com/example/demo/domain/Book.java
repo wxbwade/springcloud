@@ -1,4 +1,4 @@
-package com.example.demo.com.wxb.domain;
+package com.example.demo.domain;
 
 public class Book {
     private Integer bookId;

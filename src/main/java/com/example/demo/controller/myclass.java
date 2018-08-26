@@ -1,6 +1,6 @@
-package com.example.demo.com.wxb.controller;
+package com.example.demo.controller;
 
-import com.example.demo.com.wxb.domain.Book;
+import com.example.demo.domain.Book;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
